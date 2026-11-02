@@ -1,0 +1,28 @@
+{
+ "shoulder_pan": {
+  "dx_per_unit": 4.61,
+  "dy_per_unit": 1.36,
+  "confidence": 0.02
+ },
+ "wrist_flex": {
+  "dx_per_unit": -1.39,
+  "dy_per_unit": 7.36,
+  "confidence": 0.07
+ },
+ "wrist_roll": {
+  "dx_per_unit": -1.89,
+  "dy_per_unit": -2.45,
+  "confidence": 0.13
+ },
+ "shoulder_lift": {
+  "dx_per_unit": -2.47,
+  "dy_per_unit": 10.22,
+  "confidence": 0.07
+ },
+ "elbow_flex": {
+  "dx_per_unit": 0.47,
+  "dy_per_unit": -0.57,
+  "confidence": 0.0
+ },
+ "camera_cmd_to_image_change_s": 0.05615806579589844
+}

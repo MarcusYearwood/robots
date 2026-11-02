@@ -1,0 +1,110 @@
+{
+ "P16|shoulder_lift|-": {
+  "ss_err": 3.31,
+  "hold_jitter_std": 0.0,
+  "hold_pp": 0.0,
+  "overshoot": -3.31
+ },
+ "P16|shoulder_lift|+": {
+  "ss_err": 0.24,
+  "hold_jitter_std": 0.0,
+  "hold_pp": 0.0,
+  "overshoot": 0.24
+ },
+ "P16|elbow_flex|-": {
+  "ss_err": 4.36,
+  "hold_jitter_std": 0.0,
+  "hold_pp": 0.0,
+  "overshoot": -4.36
+ },
+ "P16|elbow_flex|+": {
+  "ss_err": 0.27,
+  "hold_jitter_std": 0.0,
+  "hold_pp": 0.0,
+  "overshoot": 0.27
+ },
+ "P16|wrist_flex|-": {
+  "ss_err": 2.26,
+  "hold_jitter_std": 0.0,
+  "hold_pp": 0.0,
+  "overshoot": -2.26
+ },
+ "P16|wrist_flex|+": {
+  "ss_err": -0.44,
+  "hold_jitter_std": 0.0,
+  "hold_pp": 0.0,
+  "overshoot": -0.44
+ },
+ "P24|shoulder_lift|-": {
+  "ss_err": 2.12,
+  "hold_jitter_std": 0.0,
+  "hold_pp": 0.0,
+  "overshoot": -2.12
+ },
+ "P24|shoulder_lift|+": {
+  "ss_err": 0.24,
+  "hold_jitter_std": 0.0,
+  "hold_pp": 0.0,
+  "overshoot": 0.24
+ },
+ "P24|elbow_flex|-": {
+  "ss_err": 2.55,
+  "hold_jitter_std": 0.0,
+  "hold_pp": 0.0,
+  "overshoot": -2.55
+ },
+ "P24|elbow_flex|+": {
+  "ss_err": 0.18,
+  "hold_jitter_std": 0.0,
+  "hold_pp": 0.0,
+  "overshoot": 0.18
+ },
+ "P24|wrist_flex|-": {
+  "ss_err": 1.53,
+  "hold_jitter_std": 0.0,
+  "hold_pp": 0.0,
+  "overshoot": -1.53
+ },
+ "P24|wrist_flex|+": {
+  "ss_err": -0.07,
+  "hold_jitter_std": 0.0,
+  "hold_pp": 0.0,
+  "overshoot": -0.07
+ },
+ "P32|shoulder_lift|-": {
+  "ss_err": 1.45,
+  "hold_jitter_std": 0.0,
+  "hold_pp": 0.0,
+  "overshoot": -1.45
+ },
+ "P32|shoulder_lift|+": {
+  "ss_err": 0.16,
+  "hold_jitter_std": 0.0,
+  "hold_pp": 0.0,
+  "overshoot": 0.16
+ },
+ "P32|elbow_flex|-": {
+  "ss_err": 1.63,
+  "hold_jitter_std": 0.0,
+  "hold_pp": 0.0,
+  "overshoot": -1.63
+ },
+ "P32|elbow_flex|+": {
+  "ss_err": 0.1,
+  "hold_jitter_std": 0.0,
+  "hold_pp": 0.0,
+  "overshoot": 0.1
+ },
+ "P32|wrist_flex|-": {
+  "ss_err": 0.98,
+  "hold_jitter_std": 0.0,
+  "hold_pp": 0.0,
+  "overshoot": -0.98
+ },
+ "P32|wrist_flex|+": {
+  "ss_err": 0.2,
+  "hold_jitter_std": 0.0,
+  "hold_pp": 0.0,
+  "overshoot": 0.2
+ }
+}
