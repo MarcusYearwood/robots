@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+
+# Large vendor downloads / CAD (over GitHub's 100 MB limit); keep locally, don't commit
+lerobot.zip
+*.3dm
+SO101/LeRobotMaterials/2. Software Tools & Source Code/Software Tools/Miniconda3-*
