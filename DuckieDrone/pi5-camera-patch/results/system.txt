@@ -1,0 +1,6 @@
+local/dt-duckiebot-interface:ente-pi5 running
+restarts=0 health=healthy
+dtps Up 36 minutes
+portainer Up 36 minutes
+throttled=0x0
+temp=37.8'C

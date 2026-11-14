@@ -1,0 +1,6 @@
+docker.io/duckietown/dt-duckiebot-interface:ente-arm64v8 restarts=32 state=exited
+2026-11-14 21:26:46 amelia02 camera_driver_front_center[41084] INFO Releasing camera...
+2026-11-14 21:26:46 amelia02 camera_driver_front_center[41084] INFO Camera released.
+2026-11-14 21:26:46 amelia02 camera_driver_front_center[41084] INFO Health status changed [WARNING] -> [ERROR]
+2026-11-14 21:26:46 amelia02 camera_driver_front_center[41084] ERROR Could not start camera: Could not read image from camera
+2026-11-14 21:26:46 amelia02 camera_driver_front_center[41084] INFO Shutdown requested: Failed to setup camera: Could not start camera: Could not read image from camera
