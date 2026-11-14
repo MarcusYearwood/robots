@@ -1,0 +1,4 @@
+[submodule "DuckieDrone/dt-duckiebot-interface"]
+	path = DuckieDrone/dt-duckiebot-interface
+	url = https://github.com/MarcusYearwood/dt-duckiebot-interface.git
+	branch = pi5-camera-pisp

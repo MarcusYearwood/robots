@@ -1,0 +1,7 @@
+pisp
+vc4
+ipa_rpi_pisp.so
+ipa_rpi_pisp.so.sign
+ipa_rpi_vc4.so
+ipa_rpi_vc4.so.sign
+picamera2 0.3.36
